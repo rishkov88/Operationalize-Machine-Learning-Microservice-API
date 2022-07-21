@@ -1,0 +1,14 @@
+<paste log output from Kubernetes-mediated prediction, here>
+
+root@ip-172-31-80-5:/home/ubuntu/environment/DevOps_Microservices/project-ml-microservice-kubernetes# kubectl get pods
+NAME                 READY   STATUS    RESTARTS   AGE
+machinelearning      1/1     Running   0          33m
+machinelearning-v2   1/1     Running   0          16m
+root@ip-172-31-80-5:/home/ubuntu/environment/DevOps_Microservices/project-ml-microservice-kubernetes# ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "machinelearning" already exists
+NAME                 READY   STATUS    RESTARTS   AGE
+machinelearning      1/1     Running   0          34m
+machinelearning-v2   1/1     Running   0          16m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
