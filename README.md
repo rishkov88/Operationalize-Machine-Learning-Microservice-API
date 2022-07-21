@@ -37,7 +37,7 @@ Goal is to operationalize this working, machine learning microservice using [kub
 
 ## Intall
 
-A working environment like `AWS Cloud9` with an instance of at least 2vcpu and 2GB of memory is required to deploy this application.
+A working environment like [AWS Cloud9](https://us-east-1.console.aws.amazon.com/cloud9/home#) with an instance of at least 2vcpu and 2GB of memory is required to deploy this application.
 
 
 ---
