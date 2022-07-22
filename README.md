@@ -29,9 +29,7 @@ Goal is to operationalize this working, machine learning microservice using [kub
 `run_docker.sh` - Script to build and run docker image locally  
 `upload_docker.sh` - Script to tag and upload docker image to docker hub  
 `run_kubernetes.sh` - Script to setup and run app on kubernetes  
-`.circleci/config.yml`: CircleCI configuration file for running the tests  
-`templates/index.html`: Frontend of this project where you can send input and receive a prediction  
-`static/`: Frontend assets
+`.circleci/config.yml`: CircleCI configuration file for running the tests
 
 ---
 
