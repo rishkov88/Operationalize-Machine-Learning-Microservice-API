@@ -1,5 +1,3 @@
-Deploy microservice app with kubernetes
-
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/rishkov88/Operationalize-Machine-Learning-Microservice-API/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/rishkov88/Operationalize-Machine-Learning-Microservice-API/tree/main)
 
 ---
